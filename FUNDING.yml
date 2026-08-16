@@ -1,0 +1,24 @@
+# ─────────────────────────────────────────────────────────────────────────
+#  Sponsor button config.  EVERYTHING IS COMMENTED OUT ON PURPOSE.
+#
+#  You do NOT need all of these. Pick ONE, uncomment that line, put your
+#  username in, and a "Sponsor" button appears at the top of the repo.
+#  Leave the file as-is and nothing happens — which is the safe default.
+# ─────────────────────────────────────────────────────────────────────────
+
+# GitHub Sponsors — 0% fee on sponsorships from personal accounts.
+# Needs Stripe Connect, a bank account and a W-9. Most setup, best rate.
+# github: yourusername
+
+# Ko-fi — quickest to set up. Givers don't need an account.
+# ko_fi: yourusername
+
+# Buy Me a Coffee — 5% platform fee, instant payouts.
+# buy_me_a_coffee: jmancel
+
+# Liberapay — recurring donations, non-profit, no platform cut.
+# liberapay: yourusername
+
+# Anything else: a PayPal.me link, a Stripe payment link, your own page.
+# Zero setup if you already have PayPal.
+# custom: ["https://paypal.me/thedudeguyman"]
