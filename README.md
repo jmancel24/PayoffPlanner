@@ -287,9 +287,4 @@ In plain terms:
 
 If you want to use it commercially, open an issue and ask.
 
-This is not an OSI-approved "open source" licence, and GitHub will label the
-repository "not recognised" as a result. That is expected. It is a properly
-drafted licence from the [PolyForm Project](https://polyformproject.org),
-written by software lawyers and widely used for exactly this purpose.
 
-Built with [Claude](https://claude.ai).
