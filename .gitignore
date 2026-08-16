@@ -1,0 +1,36 @@
+# ── YOUR FINANCIAL DATA — never commit this ───────────────────────────────
+# finplan_data.json holds every transaction, balance, account number fragment
+# and note you have entered. Git keeps history forever, so a single accidental
+# commit is not undone by deleting the file later.
+finplan_data.json
+finplan_data.json.bak
+finplan_data.json.broken
+finplan_data.json.tmp
+
+# statements and anything derived from them
+*.pdf
+*.csv
+*.tsv
+*.qfx
+*.ofx
+payoff_report.txt
+payoff_schedule.csv
+payday*.html
+
+# the sample data IS meant to be committed:
+!finplan_data.sample.json
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# editors / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
